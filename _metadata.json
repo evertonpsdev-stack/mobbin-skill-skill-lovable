@@ -1,0 +1,26 @@
+{
+  "owner": "ddruids",
+  "repo": "mobbin-skill",
+  "description": "AI skill for structured UI/UX research using Mobbin MCP. Works with Claude Code, Cursor, Gemini CLI, Lovable, and any MCP-compatible agent.",
+  "homepage": null,
+  "topics": [],
+  "language": null,
+  "stars": 17,
+  "license": "MIT",
+  "defaultBranch": "master",
+  "docsIncluded": [
+    "README.md",
+    "SKILL.md",
+    "references/query-patterns.md",
+    "references/synthesis-framework.md"
+  ],
+  "totalRepoFiles": 6,
+  "security": {
+    "risk": "clean",
+    "score": 0,
+    "filesScanned": 4,
+    "findings": [],
+    "summary": "Nenhum padrão suspeito encontrado em 4 arquivos. Continue com revisão manual antes de produção."
+  },
+  "generatedAt": "2026-06-24T14:05:58.874Z"
+}
